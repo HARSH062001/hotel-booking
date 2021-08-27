@@ -1,0 +1,268 @@
+
+
+
+body
+{
+	font-style:normal;
+	background-color:#EDF3F5;
+	line-height: 1.59;
+	
+}
+ul{
+	    font-style: normal;
+    font-weight: 500;
+    font-stretch: normal;
+    font-size: 19px;
+    line-height: normal;
+    font-family: Lato, serif;
+}
+
+li
+{
+	line-height:10px;
+	padding-top:20px;
+}
+.carousel-inner img {
+      width:90%;
+      height:90%;
+  }
+
+	
+}ul li 
+{
+	display:inline-block;
+}
+ul li :hover {
+	background-color:transparent;
+	color:#00;
+}
+.fix-icon {
+    font-size: 20px;
+    color:#0F0530;
+    padding: 15px 8px;
+}
+a
+{
+    color: #0F0530;
+    text-decoration: none;
+
+}
+.navbar-brand img {
+    margin: -16px 0px;
+    width: 250px;
+    height: 75px;
+}
+ navbar-brand img:hover {
+   
+	transform:none;
+	transition:none;
+}
+.bg-btn{
+	background-image:url('img/services.jpg');
+	    padding: -1px 0 127px 7px;
+	 list-style: none;
+}
+.bg-ul li {
+    font-weight: 400;
+	font-size: 13px;
+    margin: 19px -464px 0 463px;
+    text-align: center;
+	display:inline;
+    background-color: transparent;
+	list-style: none;
+	line-height: 04;
+		   
+}
+.contact1 {
+    background: #F9F9F9;
+    padding: 25px;
+    margin: 10px 0;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+.roww {
+	margin-top:20px;
+    margin-right: 176px;
+    margin-left: 40px;
+}
+.form-control {
+    display: block;
+    width: 100%;
+    height: 34px;
+    padding: 8px 11px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+.ul1{
+   font-weight: 400;
+    font-size: 13px;
+    margin: 19px -464px 0 463px;
+    text-align: center;
+    display: inline;
+    background-color: transparent;
+    list-style: none;
+    line-height: 04;
+}
+fieldset {
+     height:60;
+    padding: 3px;
+      margin:5px 103px 1px 57px;
+}
+.gallery{
+	
+	background-color:#ccc;
+	padding:10px 10px 10px 10px;
+	background-size: cover;
+	position: relative;
+    box-shadow:form.check-rooms .form-control;
+	min-height:90;
+	
+}
+
+input {
+    padding: 10px 10px;
+    padding-top: 10px;
+    padding-right: 0px;
+    padding-bottom: 1px;
+    padding-left: 0px;
+
+}
+.ul1 li {
+    display: inline;
+    color: black;
+	text-align:center;
+}
+.btn a{
+		background-color:#24a0ff;
+		padding: 8px 14px 6px 6px;
+		border: 1px solid transparent;
+        color:#ffff;
+	  
+}
+.btn:hover {
+	   opacity: 1;
+}
+
+.fa {
+	display:block;
+
+}
+.fix-icon1{
+	z-index:9999;
+	padding:13px 2px 4px 0px;
+	position:relative;
+	right: -285px;
+    top: -32px;
+	background-color: white;
+    color: cadetblue;
+	border: transparent;
+}
+.page-title{
+	font-size:30;
+	padding-top:26;
+	color:#0F0530;
+     text-align:center;
+	font-family: Lato, serif;
+	font-weight:500;
+}
+footer{
+     background-color:#202935;
+	color: #8b99ab;
+    font-size: 13px;
+   list-style-type:none;
+	margin:30 0 0 0;
+}
+.container footer-area{
+	list-style:none;
+	
+}
+.preet-sidebar ul li a i:hover{
+	color:#beac5a;
+	
+}
+.row2{
+    font-color:#fff;	
+}
+.footer-copyright-area
+{     
+    padding:25;
+	background-color:#1c242f;
+}
+.preet-sidebar h3 
+{
+	color:white;
+	font-weight:500;
+    padding: 51px 62px 0;
+	line-height:1.1;
+	font-size:24px;
+	list-style:none;
+	font-family: Lato, serif;
+}
+i.fix-icon2 {
+    font-size: 15px;
+    color: #202935;
+       padding: 9px 9px 10px 8px;
+    margin: 21px 5px 1px 0px;
+    border-radius: 41%;
+    background-color: grey;
+}
+.footer-link ul li a
+{
+	display:block;
+	color: #8b99ab;
+	font-size:17;
+	line-height:1.;
+	transition:transform 0.3s;
+	list-style: none;
+}
+.preet-footer-social
+{
+	display:inline;
+	list-style-type:none;
+	margin: 43 -93px 0 36px;
+	padding-bottom:20;
+}
+.list-dots{
+	list-style-type:none;
+	display:block;
+	    padding-left: 66px;
+}
+
+.about-room p
+{
+	color:papayawhip ;
+	margin: -53px 507px 16px;
+	font-size:18;
+	font-weight:400;
+	font-family:Open Sans", Helvetica, Arial, sans-serif;
+	line-height: 1.65;
+}
+.logo-bar4
+{
+	
+	background-image:url(img/bar.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    margin: 9px 0 -35px 89px;
+} 
+.fa {
+	display:inline;
+
+}
+.text-center3{
+	    padding-right: 132px;
+		text-align:center;
+}
+.text-center2
+    {
+	padding:-50;
+	text-align:center;
+	margin:-1px 0 0 -117px;
+}
